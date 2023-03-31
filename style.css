@@ -1,0 +1,113 @@
+body {
+    margin:0;
+    padding: 0;
+    background:url(背景1.png) no-repeat;
+    background-size:cover;
+}
+.box{
+    width:400px;
+    background:rgba(0,0,0,0.4);
+    padding:35px;
+    text-align:center;
+    margin:auto;
+    margin-top:2%;
+    color: white;
+}
+
+.box-img{
+    border-radius: 50% 20% / 10% 40%;
+    width: 200px;
+    height: 200px
+}
+
+.box h1{
+    font-size: 38px;
+    letter-spacing: 4px;
+    font-weight:100
+}
+
+.box h5{
+    font-size:17px;
+    letter-spacing:3px;
+    font-weight:100
+}
+
+.box p{
+    text-align: center;
+    letter-spacing: 3px
+
+}
+
+.box1{
+    width: 700px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 35px;
+    text-align: justify;
+    margin: auto;
+    margin-top: 2%;
+    color: white;
+    box-shadow: 10px 10px 5px #A8A8A8;
+}
+.box1 h1{
+    font-size: 25px;
+    letter-spacing: 4px;
+    font-weight: 200;
+}
+.box1 p{
+    font-size: 22px;
+    letter-spacing: 2px;
+    font-weight: 200;
+}
+
+.box2{
+    width: 700px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 35px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    color: white;
+    box-shadow: 10px 10px 5px grey;
+}
+.box2 h2{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+.box2 p{
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    color: white;
+}
+.box3 {
+    width: 900px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 35px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    color: white;
+    box-shadow: 10px 10px 5px grey;
+}
+.box3 h1 {
+    font-size: 25px;
+    letter-spacing: 4px;
+    font-weight: 200;
+}
+.box1 p{
+    font-size:5px;
+    letter-spacing:2px;
+    font-weight:100;
+}
+.box4 {
+    width:900px;
+    background:rgba(0, 0, 0, 0.4);
+    padding:35px;
+    text-align:center;
+    margin:auto;
+    margin-top:2%;
+    color:white;
+    font-family:system-ui;
+    box-shadow:10px 10px 5px grey;
+}
